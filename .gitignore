@@ -348,3 +348,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Environment variables file for IoT Edge solution
+.env
+
+# IoT Edge deployment manifest
+config/*
