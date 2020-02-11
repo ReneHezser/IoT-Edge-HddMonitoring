@@ -2,7 +2,7 @@
   "$schema-version": "0.9.9",
   "description": "",
   "image": {
-    "repository": "trumpfwsacr.azurecr.io/hddtempmodule",
+    "repository": "acr.azurecr.io/hddtempmodule",
     "tag": {
       "version": "1.0.0",
       "platforms": {
